@@ -4,11 +4,12 @@
 %  ------------
 % 
 %  The following functions is assosiated with this repository
-%
+%     sigmoid.m
 %     predict.m
 %
 
 %% Initialization
+
 clear ; close all; clc
 
 %% Setup the parameters you will use for this exercise
